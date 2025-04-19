@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-      "build": "[my-framework] build --output public"
+    "build": "[my-framework] build --output public"
   },
   "author": "Harneeetah",
   "license": "ISC",
@@ -20,6 +20,7 @@
     "node-schedule": "^2.1.1",
     "nodemailer": "^6.10.1",
     "path": "^0.12.7",
-    "schedule": "^0.5.0"
+    "schedule": "^0.5.0",
+    "vercel": "^41.6.1"
   }
 }
