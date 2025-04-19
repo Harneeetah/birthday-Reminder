@@ -4,7 +4,8 @@
   "description": "birthday reminder app",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "[my-framework] build --output public"
   },
   "author": "Harneeetah",
   "license": "ISC",
